@@ -201,3 +201,5 @@ app.listen(Number(PORT), () => {
   console.log(`   Network: ${NETWORK}`);
   console.log(`   Pay-to:  ${PAY_TO}\n`);
 });
+
+export default app;
